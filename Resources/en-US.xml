@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localization culture="en">
+	<text name="home" value="ABCHome" />
+	<text name="greeting" value="Hello, world!" />
+</localization>
